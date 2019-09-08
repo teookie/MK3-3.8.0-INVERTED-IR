@@ -3,6 +3,7 @@
 .cproject
 /.pio
 /.vscode
+/out
 Debug
 Firmware/Configuration_prusa.h
 Firmware/Doc
